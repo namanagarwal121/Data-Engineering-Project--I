@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The goal of this project is to perform data analytics on Uber data using various tools and technologies, Jupyter lab, Python, Compute Instance, Mage Data Pipeline Tool, Mysql, and Power BI.
+The goal of this project is to perform data analytics on Uber data using various tools and technologies, Jupyter lab, Python, Compute Instance, Mage Data Pipeline Tool, MSSql, and Power BI.
 
 
 
